@@ -39,7 +39,7 @@ The **new invite modal for users, groups, and placeholder users** can now be ope
 
 ## GitHub integration
 
-With OpenProject 11.3 we released a new **integration between GitHub and OpenProject**. This integration facilitates the collaboration of developers by connecting the two applications. The new GitHub integration in OpenProject is an individual module that, once activated, will be displayed to you as a tab in the work package details view. All activities taking place on GitHub that are related to the work package, are listed on this new GitHub tab. [Find out more about the OpenProject GitHub integration](../system-admin-guide/github-integration/).
+With OpenProject 11.3 we released a new **integration between GitHub and OpenProject**. This integration facilitates the collaboration of developers by connecting the two applications. The new GitHub integration in OpenProject is an individual module that, once activated, will be displayed to you as a tab in the work package details view. All activities taking place on GitHub that are related to the work package, are listed on this new GitHub tab. [Find out more about the OpenProject GitHub integration](../../system-admin-guide/github-integration/).
 
 ![github-integration](github-integration.PNG)
 
@@ -66,7 +66,7 @@ We have made **extensions to our API v3** to create, read, update and delete gro
 
 The API v3 already supports the ability to create a new project. It is now enhanced by the ability to copy existing projects.
 
-[Find out more details in our API documentation.](../api/)
+[Find out more details in our API documentation.](../../api/)
 
 ## Sending notification on adding a user to a project or updating the role
 
@@ -201,13 +201,13 @@ Users now have the option to **create backups of their OpenProject installation*
 To use OpenProject 11.3 right away, create a free trial instance for our [OpenProject Enterprise cloud.](https://start.openproject.com/)
 
 Prefer to run OpenProject 11.3 in your own infrastructure?
- Here you can find the [Installation guidelines](../installation-and-operations) for OpenProject.
+ Here you can find the [Installation guidelines](../../installation-and-operations) for OpenProject.
 
 Want to upgrade from a Community version to try out the Enterprise premium features? [Get a 14 days free trial token directly out of your current Community installation.](https://www.openproject.org/enterprise-edition/)
 
 ## Migrating to OpenProject 11.3
 
-Follow the [upgrade guide for the packaged installation or Docker installation](../installation-and-operations/operation/upgrading/) to update your OpenProject installation to OpenProject 11.3.
+Follow the [upgrade guide for the packaged installation or Docker installation](../../installation-and-operations/operation/upgrading/) to update your OpenProject installation to OpenProject 11.3.
 
 We update hosted OpenProject environments (Enterprise cloud) automatically.
 
